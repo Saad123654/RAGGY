@@ -54,9 +54,6 @@ def get_rag_response(query: str):
 print ("Fonction de réponse RAG configurée")
 #############################################################################################################
 
-print('test....')
-
-
 # Example usage
 if __name__ == "__main__":
     # Visualize the chunks
